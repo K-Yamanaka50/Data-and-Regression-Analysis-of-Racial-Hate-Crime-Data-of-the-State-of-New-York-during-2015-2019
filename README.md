@@ -8,7 +8,7 @@ Literature Review: A Statistical Analysis of Hate Crimes in the State of New Yor
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" />
-    <img height="130" src="Data Regression Figure 1.png"/>
+    <img height="130" src="DataRegressionFigure1.png"/>
   </picture>
  <br />
 </h1>
